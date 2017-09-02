@@ -1,0 +1,27 @@
+ERSGame configuration
+Any key will do.
+To add support for more players, simply copy from an existing player and add that to the end of this file
+Make sure none of the controls are the same or the game will not run!
+
+Universal controls
+	Quit: q
+
+Player One controls
+	Player One play: a
+	Player One slap: s
+	Player One count: d
+	
+Player Two controls
+	Player Two play: 9
+	Player Two slap: 8
+	Player Two count: 7
+
+Player Three controls
+	Player Three play: m
+	Player Three slap: n
+	Player Three count: b
+
+Player Four controls
+	Player Three play: w
+	Player Three slap: e
+	Player Three count: r
